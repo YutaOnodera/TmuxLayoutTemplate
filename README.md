@@ -1,7 +1,7 @@
 # <div style="text-align: center;"> Tmux Layout Template </div>
 
 ## Overview
-Tmux is a terminal multiplexer that can split a single terminal screen into multiple terminal screens called pane. Layout are stored in the "**Templates**" folder in the form of shell scripts. Also, if you have already created a layout, you can add it to "Templates".
+Tmux is a terminal multiplexer that can split a single terminal screen into multiple terminal screens called panes. Layouts are stored in the "**Templates**" folder in the form of shell scripts. Please try out the various templates.
 
 ## How to use
 ###
