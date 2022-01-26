@@ -17,8 +17,8 @@ tmux rename-window 'MainConsole'
 	# Status
 	tmux set -g pane-border-format " #{pane_index} : #T "
 	tmux set -g pane-border-status top
-	tmux select-pane -T 'Edit 0' -t 0
-	tmux select-pane -T 'Edit 1' -t 1
+	tmux select-pane -T 'Pain 0' -t 0
+	tmux select-pane -T 'Pain 1' -t 1
 	tmux select-pane -T 'Computer Resources' -t 2
 
 	# Send command
