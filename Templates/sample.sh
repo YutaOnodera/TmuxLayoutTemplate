@@ -30,11 +30,5 @@ tmux rename-window 'MainConsole'
 # Attach to the new session
 tmux attach -t "${SessionName}"
 	
-# Note
-# Creator: Yuta Onodera
-# uname -a >>> Linux malive 4.19.0-16-amd64 #1 SMP Debian 4.19.181-1 (2021-03-19) x86_64 GNU/Linux
-# tmux -V >>> tmux 2.8
-# htop -v >>> htop 2.2.0 - (C) 2004-2018 Hisham Muhammad Released under the GNU GPL.
-	
 		
 
